@@ -21,5 +21,4 @@ Gestures Supported
 - Yes 
 - No 
 - Thank You 
-- Please 
-
+- Please
