@@ -20,5 +20,5 @@ Gestures Supported
 - I Love You 
 - Yes 
 - No 
-- Thank You 
+- Thank You
 - Please
